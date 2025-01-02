@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 王煒翔</h1>
-<h3 align="center">清華大學電機工程研究所研究生 目前碩二 主修數位IC設計</h3>
+<h3 align="center">清華大學電機工程研究所研究生 目前已畢業 主修數位IC設計</h3>
 
 * 大學修過計組、計結、DIC跑過cell-based流程
 * 研究所
@@ -11,10 +11,10 @@
   * 碩二上
     * DSP IC(COM 524000) : 如何在DSP所學的知識以及filter，用verilog去實現電路，怎麼去優化我們的filter怎麼切pipeline，讓我們的電路performance最好，是本門課的重點
     * SOC Design(EE 525100) : 使用FPGA板子(ZYNQ) : 去模擬CPU如何跟周圍IP去做聯絡，之間的IO怎麼連接，有它特殊的規定，最後在期末，如何使用python去對FPGA板子去模擬我們的行為，是本門課的重點
-  * 碩二下(NOW)
+  * 碩二下
     * VLSI System Design(CS 512000) : 如何去實現神經網路電路，是本門課的重點 
 
-- 📫 How to reach me **Qq5402100@gnail.com**
+- 📫 How to reach me **Qq5402100@gmail.com**
 
 <p align="left">
 </p>
